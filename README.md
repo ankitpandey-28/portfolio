@@ -1,3 +1,64 @@
+# Portfolio
+
+A personal portfolio website built with Vite and React. This repository contains the source for a responsive single-page portfolio including sections for About, Projects, Experience, Skills, and Contact.
+
+## Features
+
+- Clean, responsive UI
+- Project gallery and experience section
+- Contact form placeholder
+- Built with Vite, React, and modern CSS
+
+## Prerequisites
+
+- Node.js (v14+ recommended)
+- npm or yarn
+
+## Setup
+
+1. Install dependencies
+
+```bash
+npm install
+```
+
+2. Start development server
+
+```bash
+npm run dev
+```
+
+3. Build for production
+
+```bash
+npm run build
+```
+
+4. Preview production build locally
+
+```bash
+npm run preview
+```
+
+## Deployment
+
+You can deploy this site on GitHub Pages, Vercel, or Netlify. For a quick GitHub Pages deploy, consider using the `gh-pages` package or deploy the `dist` folder from a static host.
+
+## Repository
+
+This project is published at: https://github.com/ankitpandey-28/portfolio
+
+## Contributing
+
+Contributions are welcome — open issues or send a PR.
+
+## License
+
+This repository is unlicensed. Add a license file (for example, MIT) if you want to allow reuse.
+
+## Contact
+
+For questions, open an issue or reach me via GitHub: https://github.com/ankitpandey-28
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
